@@ -1,4 +1,4 @@
-# CNN Benchmark Architectures
+# CNN Pretrained Benchmark Architectures
 
 ## Overview
 A small benchmark suite that implements, trains, and evaluates several classic CNN architectures (LeNet, AlexNet, VGG, ResNet) on CIFAR-10. The project provides model definitions, a single training harness that sequentially trains and checkpoints each architecture, and saves best-performing models to disk for later use.
